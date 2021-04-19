@@ -10,12 +10,12 @@ A modolurized version of a web app available on my portfolio website. It pulls t
 ## Usage
 
 1. Run the script in the Terminal(Linux/Mac), CMD(Windows) or alternatively in an IDE. Then enter the stock ticketer and the number of tweets to be pulled (recommended is at least 100).
-![]https://github.com/rjimpervious/twitter_stock_analyzer/blob/main/images/pic_1.png
+![](https://github.com/rjimpervious/twitter_stock_analyzer/blob/main/images/pic_1.png)
 
 2. Wait for the tweets to analyzed. Depending on the your input (the number of tweets), and the speed of your machine, this can take minutes. The script will print out all the tweets and will generate a summary at the end.
-![]https://github.com/rjimpervious/twitter_stock_analyzer/blob/main/images/pic2.png
+![](https://github.com/rjimpervious/twitter_stock_analyzer/blob/main/images/pic2.png)
 
 3. The script will also generate a pie graph (powered by Matplotlib) from the data.
-![]https://github.com/rjimpervious/twitter_stock_analyzer/blob/main/images/pic3.png
+![](https://github.com/rjimpervious/twitter_stock_analyzer/blob/main/images/pic3.png)
 
 
