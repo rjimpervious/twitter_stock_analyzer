@@ -8,8 +8,8 @@ import pyinputplus as pyip
 # run for the first time to download lexicon
 # nltk.downloader.download('vader_lexicon')
 
-CONSUMER_KEY = 'njUfYLmQGWygeWj1hCiMa4wiz'
-CONSUMER_SECRET = 'yjLRe1tfkcScKoDpo78tf2RKCMwBO9ICOQXlYNMt5KESOK1k6y'
+CONSUMER_KEY = '' # API_KEY from developer.twitter.com
+CONSUMER_SECRET = '' # SECRET from developer.twitter.com
 
 
 # This is using twitter Oath2 authentication (without user context)
