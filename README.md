@@ -1,5 +1,5 @@
 # Twitter Stock Analyzer
-A modolurized version of a web app available on my ![https://www.rjlopez.me/twitter_stock/]. It pulls tweets from twitter (using TweePy module) and analyzes the polarity of the tweets using NLTK's Vader Sentimer Analyzer. It also utilizes matplotlib to create a graphical representation of the results.
+A modolurized version of a web app available on my ![portfolio website]((https://www.rjlopez.me/twitter_stock/). It pulls tweets from twitter (using TweePy module) and analyzes the polarity of the tweets using NLTK's Vader Sentimer Analyzer. It also utilizes matplotlib to create a graphical representation of the results.
 
 ## Prerequisities:
 * Tweepy (you also need a customer key and secret from  developer.twitter.com)
